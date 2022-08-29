@@ -1,0 +1,62 @@
+{
+  "artisti": {
+    "tabel_artisti": [
+      {
+        "id": "1",
+        "nume": "Lana del Rey",
+        "an": "1985",
+        "gen": "Dream pop, rock",
+        "colaborari": "The Weeknd",
+        "album": "Born to Die"
+      },
+      {
+        "id": "2",
+        "nume": "Purple Disco Machine",
+        "an": "1980",
+        "gen": "House",
+        "colaborari": "Sophie and the Giants",
+        "album": "Exotica"
+      },
+      {
+        "id": "3",
+        "nume": "Rihanna",
+        "an": "1988",
+        "gen": "Pop, Dance, Raggae",
+        "colaborari": "Justin Timberlake, Britney Spears, Eminem",
+        "album": "Anti"
+      },
+      {
+        "id": "4",
+        "nume": "Jan Blomqvist ",
+        "an": "1982",
+        "gen": "Electronic, Techno",
+        "colaborari": "Booka Shade, Bloom Twins",
+        "album": "Remote Control, Disconnected"
+      },
+      {
+        "id": "5",
+        "nume": "Eminem",
+        "an": "1972",
+        "gen": "Hip Hop",
+        "colaborari": "Sia, Rihanna, Skylar Grey",
+        "album": "Music to be murder by, Revival"
+      },
+      {
+        "id": "6",
+        "nume": "Paul Kalkbrenner",
+        "an": "1977",
+        "gen": "Techno, Electronica",
+        "colaborari": "NTO",
+        "album": "Berlin Calling, Guten Tag"
+      },
+      {
+        "id": "7",
+        "nume": "Sia",
+        "an": "1975",
+        "gen": "Pop, Dance",
+        "colaborari": "Eminem, Zayn",
+        "album": "We Are Born, This is Acting"
+      }
+    ]
+  }
+}

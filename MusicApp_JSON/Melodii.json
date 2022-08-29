@@ -1,0 +1,78 @@
+{
+  "melodii": {
+    "tabel_melodii": [
+      {
+        "id": "1",
+        "nume": "Hypnotized",
+        "artist": "Purple Disco Machine",
+        "gen": "House",
+        "an": "2020",
+        "album": "Exotica",
+        "durata": "196"
+      },
+      {
+        "id": "2",
+        "nume": "Blue Jeans",
+        "artist": "Lana del Rey",
+        "gen": "Pop",
+        "an": "2012",
+        "album": "Born to Die",
+        "durata": "212"
+      },
+      {
+        "id": "3",
+        "nume": "Nobody",
+        "artist": "Gorgon City",
+        "gen": "House",
+        "an": "2020",
+        "album": "Sirens",
+        "durata": "109"
+      },
+      {
+        "id": "4",
+        "nume": "Sky and Sand",
+        "artist": "Paul Kalkbrenner",
+        "gen": "Techno, Electronic, Tech House",
+        "an": "2008",
+        "album": "Berlin Calling",
+        "durata": "240"
+      },
+      {
+        "id": "5",
+        "nume": "The space in between",
+        "artist": "Jan Blomqvist",
+        "gen": "Dance, Electronic",
+        "an": "2018",
+        "album": "Disconnected",
+        "durata": "216"
+      },
+      {
+        "id": "6",
+        "nume": "Love On The Brain",
+        "artist": "Rihanna",
+        "gen": "Pop",
+        "an": "2016",
+        "album": "Anti",
+        "durata": "322"
+      },
+      {
+        "id": "7",
+        "nume": "River",
+        "artist": "Eminem",
+        "gen": "Hip-hop",
+        "an": "2017",
+        "album": "Revival",
+        "durata": "223"
+      },
+      {
+        "id": "81",
+        "nume": "Sky and Sanddddddd",
+        "artist": "Paul Kalkbrenner",
+        "gen": "Techno, Electronic, Tech House",
+        "an": "2008",
+        "album": "Berlin Calling",
+        "durata": "240"
+      }
+    ]
+  }
+}

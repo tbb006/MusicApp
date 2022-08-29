@@ -1,0 +1,122 @@
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\bin\Debug\MusicApp.exe.config
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\bin\Debug\MusicApp.exe
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\bin\Debug\MusicApp.pdb
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.csproj.AssemblyReference.cache
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.Properties.Resources.resources
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.csproj.GenerateResource.cache
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.exe
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.pdb
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.FormMain.resources
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.FormAlbume.resources
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.FormArtisti.resources
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.FormFavorite.resources
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.FormMelodii.resources
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.FormConectare.resources
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.FormUtilizatori.resources
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.FormAddArtisti.resources
+C:\Users\Bianca\Documents\Facultate\EAV\Proiect2\MusicApp\obj\Debug\MusicApp.FormAddMelodii.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\bin\Debug\MusicApp.exe.config
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\bin\Debug\MusicApp.exe
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\bin\Debug\MusicApp.pdb
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.AssemblyReference.cache
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.FormAddArtisti.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.FormAddMelodii.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.FormAlbume.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.FormArtisti.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.FormConectare.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.FormFavorite.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.FormMain.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.FormMelodii.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.FormUtilizatori.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.Properties.Resources.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.GenerateResource.cache
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.exe
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.pdb
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.FormAddAlbume.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.FormAddFavorite.resources
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\bin\Debug\NGraphics.dll
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\bin\Debug\NGraphics.Net.dll
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\bin\Debug\NGraphics.xml
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\bin\Debug\NGraphics.Net.xml
+C:\Users\Bianca\Documents\Facultate\EAV\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CopyComplete
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\bin\Debug\MusicApp.exe.config
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\bin\Debug\MusicApp.exe
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\bin\Debug\MusicApp.pdb
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\bin\Debug\NGraphics.dll
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\bin\Debug\NGraphics.Net.dll
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\bin\Debug\NGraphics.xml
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\bin\Debug\NGraphics.Net.xml
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.AssemblyReference.cache
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.FormAddAlbume.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.FormAddArtisti.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.FormAddFavorite.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.FormAddMelodii.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.FormAlbume.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.FormArtisti.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.FormConectare.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.FormFavorite.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.FormMain.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.FormMelodii.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.FormUtilizatori.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.Properties.Resources.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.GenerateResource.cache
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CopyComplete
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.exe
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicApp\MusicApp\obj\Debug\MusicApp.pdb
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\MusicApp.exe.config
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\MusicApp.exe
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\MusicApp.pdb
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\NGraphics.dll
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\NGraphics.Net.dll
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\NGraphics.xml
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\NGraphics.Net.xml
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.csproj.AssemblyReference.cache
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormAddAlbume.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormAddArtisti.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormAddFavorite.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormAddMelodii.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormAlbume.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormArtisti.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormConectare.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormFavorite.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormMain.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormMelodii.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormUtilizatori.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.Properties.Resources.resources
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.csproj.GenerateResource.cache
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.csproj.CopyComplete
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.exe
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.pdb
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bianca\Documents\Facultate\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\MusicApp.exe.config
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\MusicApp.exe
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\MusicApp.pdb
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\NGraphics.dll
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\NGraphics.Net.dll
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\NGraphics.xml
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\bin\Debug\NGraphics.Net.xml
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.csproj.AssemblyReference.cache
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormAddAlbume.resources
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormAddArtisti.resources
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormAddFavorite.resources
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormAddMelodii.resources
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormAlbume.resources
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormArtisti.resources
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormConectare.resources
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormFavorite.resources
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormMain.resources
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormMelodii.resources
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.FormUtilizatori.resources
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.Properties.Resources.resources
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.csproj.GenerateResource.cache
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.csproj.CoreCompileInputs.cache
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.csproj.CopyComplete
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.exe
+C:\Users\Bianca\Documents\Facultate\Anul 4\Semestrul II\TTTVMM\MusicAppJSON\MusicApp\obj\Debug\MusicApp.pdb

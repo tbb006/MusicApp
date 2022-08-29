@@ -1,0 +1,33 @@
+{
+  "favorite": {
+    "tabel_favorite": [
+      {
+        "id": "6",
+        "nume": "Nobody",
+        "artist": "Gorgon City",
+        "gen": "House",
+        "an": "2020",
+        "album": "Sirens",
+        "durata": "109"
+      },
+      {
+        "id": "27",
+        "nume": "The space in between",
+        "artist": "Jan Blomqvist",
+        "gen": "Dance, Electronic",
+        "an": "2018",
+        "album": "Disconnected",
+        "durata": "216"
+      },
+      {
+        "id": "54",
+        "nume": "Hypnotized",
+        "artist": "Purple Disco Machine",
+        "gen": "House",
+        "an": "2020",
+        "album": "Exotica",
+        "durata": "196"
+      }
+    ]
+  }
+}

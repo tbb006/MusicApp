@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Albume>
+  <Album>
+    <Nume>Born to Die</Nume>
+    <Artist>Lana del Rey</Artist>
+    <An>2012</An>
+    <Gen>Pop</Gen>
+    <Durata>49:28</Durata>
+  </Album>
+  <Album>
+    <Nume>Sirens</Nume>
+    <Artist>Gorgon City</Artist>
+    <An>2014</An>
+    <Gen>Deep House, electronic, dance </Gen>
+    <Durata>50:18 </Durata>
+  </Album>
+  <Album>
+    <Nume>Berlin Calling</Nume>
+    <Artist>Paul Kalkbrenner</Artist>
+    <An>2008</An>
+    <Gen>Techno, Electronic, Tech House</Gen>
+    <Durata>72:09</Durata>
+  </Album>
+  <Album>
+    <Nume>Exotica</Nume>
+    <Artist>Purple Disco Machine</Artist>
+    <An>2020</An>
+    <Gen>Dance, electronic </Gen>
+    <Durata>61:20</Durata>
+  </Album>
+  <Album>
+    <Nume>Disconnected</Nume>
+    <Artist>Jan Blomqvist </Artist>
+    <An>2018</An>
+    <Gen>Dance, electronic</Gen>
+    <Durata>80:33</Durata>
+  </Album>
+  <Album>
+    <Nume>Anti</Nume>
+    <Artist>Rihanna</Artist>
+    <An>2016</An>
+    <Gen>Electropop </Gen>
+    <Durata>46:29 </Durata>
+  </Album>
+  <Album>
+    <Nume>This Is Acting</Nume>
+    <Artist>Sia</Artist>
+    <An>2016</An>
+    <Gen>Electropop </Gen>
+    <Durata>43:36 </Durata>
+  </Album>
+  <Album>
+    <Nume>Amniotic</Nume>
+    <Artist>Monolink</Artist>
+    <An>2018</An>
+    <Gen>Dance, electronic</Gen>
+    <Durata>76:25</Durata>
+  </Album>
+  <Album>
+    <Nume>Lemonade</Nume>
+    <Artist>Beyoncé </Artist>
+    <An>2016</An>
+    <Gen>R&amp;B, art pop</Gen>
+    <Durata>45:45</Durata>
+  </Album>
+  <Album>
+    <Nume>Revival</Nume>
+    <Artist>Eminem </Artist>
+    <An>2018</An>
+    <Gen>Hip-hop, rap rock</Gen>
+    <Durata>77:18</Durata>
+  </Album>
+</Albume>

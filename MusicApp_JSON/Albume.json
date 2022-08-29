@@ -1,0 +1,62 @@
+{
+  "albume": {
+    "tabel_albume": [
+      {
+        "id": "1",
+        "nume": "Born to Die",
+        "artist": "Lana Del Rey",
+        "an": "2012",
+        "gen": "Pop",
+        "durata": "49:28"
+      },
+      {
+        "id": "2",
+        "nume": "Berlin Calling",
+        "artist": "Paul Kalkbrenner",
+        "an": "2008",
+        "gen": "Techno, Electronic",
+        "durata": "72:09"
+      },
+      {
+        "id": "3",
+        "nume": "Exotica",
+        "artist": "Purple Disco Machine",
+        "an": "2020",
+        "gen": "Dance, electronic",
+        "durata": "61:20"
+      },
+      {
+        "id": "4",
+        "nume": "Disconnected",
+        "artist": "Jan Blomqvist",
+        "an": "2018",
+        "gen": "Dance, electronic",
+        "durata": "80:33"
+      },
+      {
+        "id": "5",
+        "nume": "This Is Acting",
+        "artist": "Sia",
+        "an": "2016",
+        "gen": "Pop",
+        "durata": "43:36"
+      },
+      {
+        "id": "6",
+        "nume": "Anti",
+        "artist": "Rihanna",
+        "an": "2016",
+        "gen": "Pop",
+        "durata": "46:29"
+      },
+      {
+        "id": "7",
+        "nume": "Sirens",
+        "artist": "Gorgon City",
+        "an": "2014",
+        "gen": "Deep house",
+        "durata": "50:18"
+      }
+    ]
+  }
+}

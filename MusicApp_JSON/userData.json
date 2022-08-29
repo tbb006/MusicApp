@@ -1,0 +1,29 @@
+{
+  "userData": [
+    {
+      "username": "Bianca",
+      "password": "123456",
+      "country": "Romania"
+    },
+    {
+      "username": "Bianca",
+      "password": "12345",
+      "country": "Romania"
+    },
+    {
+      "username": "bianca",
+      "password": "123456",
+      "country": "RO"
+    },
+    {
+      "username": "bbb",
+      "password": "1111",
+      "country": "ro"
+    },
+    {
+      "username": "bia",
+      "password": "123",
+      "country": "ro"
+    }
+  ]
+}

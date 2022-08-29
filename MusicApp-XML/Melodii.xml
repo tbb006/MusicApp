@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Melodii>
+  <Melodie>
+    <Nume>Hypnotized </Nume>
+    <Artist>Purple Disco Machine</Artist>
+    <Gen>House </Gen>
+    <An>2020</An>
+    <Album>Purple Disco Machine</Album>
+    <Durata>196</Durata>
+  </Melodie>
+  <Melodie>
+    <Nume>Blue Jeans</Nume>
+    <Artist>Lana del Rey</Artist>
+    <Gen>Pop</Gen>
+    <An>2012</An>
+    <Album>Lana del Rey</Album>
+    <Durata>212</Durata>
+  </Melodie>
+  <Melodie>
+    <Nume>Nobody </Nume>
+    <Artist>Gorgon City</Artist>
+    <Gen>House </Gen>
+    <An>2020</An>
+    <Album>Gorgon City</Album>
+    <Durata>109</Durata>
+  </Melodie>
+  <Melodie>
+    <Nume>Sky and Sand </Nume>
+    <Artist>Paul Kalkbrenner</Artist>
+    <Gen>Dance</Gen>
+    <An>2008</An>
+    <Album>Paul Kalkbrenner</Album>
+    <Durata>240</Durata>
+  </Melodie>
+  <Melodie>
+    <Nume>The space in between</Nume>
+    <Artist>Jan Blomqvist </Artist>
+    <Gen>Dance, Electronic   </Gen>
+    <An>2018</An>
+    <Album>Jan Blomqvist </Album>
+    <Durata>216</Durata>
+  </Melodie>
+  <Melodie>
+    <Nume>River</Nume>
+    <Artist>Eminem </Artist>
+    <Gen>Hip-hop </Gen>
+    <An>2017</An>
+    <Album>Eminem </Album>
+    <Durata>223</Durata>
+  </Melodie>
+  <Melodie>
+    <Nume>The Prey  </Nume>
+    <Artist>Monolink</Artist>
+    <Gen>Dance, Electronic</Gen>
+    <An>2021</An>
+    <Album>Monolink</Album>
+    <Durata>255</Durata>
+  </Melodie>
+  <Melodie>
+    <Nume>Bird Set Free </Nume>
+    <Artist>Sia</Artist>
+    <Gen>Pop</Gen>
+    <An>2015</An>
+    <Album>Sia</Album>
+    <Durata>253</Durata>
+  </Melodie>
+  <Melodie>
+    <Nume>Love On The Brain   </Nume>
+    <Artist>Rihanna</Artist>
+    <Gen>Pop</Gen>
+    <An>2016</An>
+    <Album>Rihanna</Album>
+    <Durata>322</Durata>
+  </Melodie>
+  <Melodie>
+    <Nume>All Night</Nume>
+    <Artist>Beyoncé </Artist>
+    <Gen>R&amp;B</Gen>
+    <An>2016</An>
+    <Album>Beyoncé </Album>
+    <Durata>322</Durata>
+  </Melodie>
+  <Melodie>
+    <Nume>Maybe Not</Nume>
+    <Artist>Jan Blomqvist </Artist>
+    <Gen>Electronic</Gen>
+    <An>2008</An>
+    <Album>Jan Blomqvist </Album>
+    <Durata>361</Durata>
+  </Melodie>
+</Melodii>

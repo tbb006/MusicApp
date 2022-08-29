@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Utilizatori>
+  <Utilizator>
+    <Nume>bianca</Nume>
+    <Parola>123456</Parola>
+    <Tara>RO</Tara>
+  </Utilizator>
+  <Utilizator>
+    <Nume>bb</Nume>
+    <Parola>1111</Parola>
+    <Tara>RO</Tara>
+  </Utilizator>
+  <Utilizator>
+    <Nume>bbb</Nume>
+    <Parola>1111</Parola>
+    <Tara>RO</Tara>
+  </Utilizator>
+</Utilizatori>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MelodiiFavorite>
+  <Favorite>
+    <Nume>The space in between</Nume>
+    <Artist>Jan Blomqvist </Artist>
+    <Gen>Dance, Electronic   </Gen>
+    <An>2018</An>
+    <Album>Jan Blomqvist </Album>
+    <Durata>216</Durata>
+  </Favorite>
+  <Favorite>
+    <Nume>Sky and Sand </Nume>
+    <Artist>Paul Kalkbrenner</Artist>
+    <Gen>Dance</Gen>
+    <An>2008</An>
+    <Album>Paul Kalkbrenner</Album>
+    <Durata>240</Durata>
+  </Favorite>
+  <Favorite>
+    <Nume>Nobody </Nume>
+    <Artist>Gorgon City</Artist>
+    <Gen>House </Gen>
+    <An>2020</An>
+    <Album>Gorgon City</Album>
+    <Durata>109</Durata>
+  </Favorite>
+</MelodiiFavorite>

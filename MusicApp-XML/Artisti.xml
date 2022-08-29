@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Artisti>
+  <Artist>
+    <Nume>Lana del Rey</Nume>
+    <An>1985</An>
+    <Gen>Dream pop, rock</Gen>
+    <Colaborari>The Weeknd</Colaborari>
+    <Albume>Born to Die</Albume>
+  </Artist>
+  <Artist>
+    <Nume>Purple Disco Machine</Nume>
+    <An>1980</An>
+    <Gen>House</Gen>
+    <Colaborari>Sophie and the Giants</Colaborari>
+    <Albume>Exotica</Albume>
+  </Artist>
+  <Artist>
+    <Nume>Gorgon City</Nume>
+    <An>1985</An>
+    <Gen>Electronic, house</Gen>
+    <Colaborari>Clean Bandit, MK, Sofi Tukker</Colaborari>
+    <Albume>Olympia, Sirens</Albume>
+  </Artist>
+  <Artist>
+    <Nume>Paul Kalkbrenner</Nume>
+    <An>1977</An>
+    <Gen>Techno, Electronica</Gen>
+    <Colaborari>NTO</Colaborari>
+    <Albume>Berlin Calling, Guten Tag</Albume>
+  </Artist>
+  <Artist>
+    <Nume>Sia</Nume>
+    <An>1975</An>
+    <Gen>Pop, Dance</Gen>
+    <Colaborari>Eminem, Zayn, Katty Perry</Colaborari>
+    <Albume>We Are Born, This is Acting</Albume>
+  </Artist>
+  <Artist>
+    <Nume>Rihanna</Nume>
+    <An>1988</An>
+    <Gen>Pop, Dance, Raggae</Gen>
+    <Colaborari>Justin Timberlake, Britney Spears, Eminem</Colaborari>
+    <Albume>Anti, Loud, A Girl Like Me</Albume>
+  </Artist>
+  <Artist>
+    <Nume>Monolink</Nume>
+    <An>1989</An>
+    <Gen>Electronic, Techno</Gen>
+    <Colaborari>Innella, NTO </Colaborari>
+    <Albume>Under Darkening Skies, Amniotic</Albume>
+  </Artist>
+  <Artist>
+    <Nume>Beyoncé </Nume>
+    <An>1981</An>
+    <Gen>Pop, R&amp;B  </Gen>
+    <Colaborari>Jay-Z, Lady Gaga, Shakira</Colaborari>
+    <Albume>Beyoncé, Lemonade</Albume>
+  </Artist>
+  <Artist>
+    <Nume>Jan Blomqvist </Nume>
+    <An>1982</An>
+    <Gen>Electronic, Techno</Gen>
+    <Colaborari>Booka Shade, Bloom Twins</Colaborari>
+    <Albume>Remote Control, Disconnected </Albume>
+  </Artist>
+  <Artist>
+    <Nume>Eminem </Nume>
+    <An>1972</An>
+    <Gen>Hip Hop     </Gen>
+    <Colaborari>Sia, Rihanna, Skylar Grey</Colaborari>
+    <Albume>Music to be murder by, Revival, Kamikaze  </Albume>
+  </Artist>
+</Artisti>
